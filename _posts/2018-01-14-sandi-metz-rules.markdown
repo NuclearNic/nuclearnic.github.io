@@ -10,3 +10,5 @@ No More Than:
 * 4 params per method
 * 1 ivar per view
 * 2 class names per controller action (business, presenter)
+
+https://www.youtube.com/watch?v=npOGOmkxuio
